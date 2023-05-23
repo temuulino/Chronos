@@ -21,7 +21,7 @@ People have trouble maintaining a good work-life balance. How might we help use
 
 ![d9b211_6451fc307edd4d24b4fbedd48e168367~mv2](https://github.com/temuulino/Chronos/assets/72473361/cd41e052-878a-4e9e-86cd-7acfa94d1b3b)
 
-#Prototype
+# Prototype
 
 ![d9b211_f0b3f2491bcb4591bde7380c403db311~mv2](https://github.com/temuulino/Chronos/assets/72473361/d9054c84-3219-40d5-bc3a-c026b53b2bb9)
 
